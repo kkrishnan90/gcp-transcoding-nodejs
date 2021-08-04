@@ -1,4 +1,4 @@
-# Transcoding API GCP - Demo
+# Transcoding API - Google Cloud Platform Demo
 
 This demo is built with Nodejs SDK and Google Cloud Transcoding API. It will act as a REST endpoint for the calls from the frontend clients.
 
